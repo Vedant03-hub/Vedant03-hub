@@ -1,17 +1,23 @@
-Hello World
-## Hi there 👋
+# Hi there 👋, I'm Vedant
 
-<!--
-**Vedant03-hub/Vedant03-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on improving my development skills and building useful projects.
+- 🌱 I’m currently learning modern software engineering practices.
+- 👯 I’m open to collaborating on interesting open-source and learning projects.
+- 💬 Ask me about programming, projects, and learning resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: Python, JavaScript, C++
+- Tools: Git, GitHub, VS Code
+- Interests: Web development, automation, and problem solving
+
+## 📈 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant03-hub&show_icons=true&theme=default)
+
+## 📫 Connect With Me
+- GitHub: [@Vedant03-hub](https://github.com/Vedant03-hub)
+
+---
+Thanks for visiting my profile! ⭐
